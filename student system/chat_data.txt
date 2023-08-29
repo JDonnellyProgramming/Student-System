@@ -1,0 +1,8 @@
+Michael Steve,Engineering,15/11/2000,Male,90%
+Hannah Rosen,Engineering,10/12/2001,Female,74%
+Gareth Mustarn,Physics,02/04/1998,Male,40%
+Ian Poot,Biology,03/06/1996,Male,56%
+Sophie Turnout,Biology,05/05/2002,Female,68%
+Dave Butcher,Biology,09/08/2000,Male,72%
+Sarah Porch,Physics,16/11/2000,Female,88%
+Phoebe Merso,English,18/02/1998,Female,60%                                  
